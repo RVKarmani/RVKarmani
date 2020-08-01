@@ -14,5 +14,5 @@ I'm a full-stack developer from India. I'm a software engineer [@PublicisSapient
 - Prometheus, Grafana
 - SpringBoot
 
-## 📫 How to reach me: ...
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rohit-vemparala)[![Email Me](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:vemparalarohit1998@gmail.com)
+## 📫 How to reach me...
+[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rohit-vemparala) [![Email Me](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:vemparalarohit1998@gmail.com)
