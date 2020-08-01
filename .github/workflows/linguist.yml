@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           repository: RVKarmani/SensorVisualizer
-          token: ${ {secrets.GH_TOKEN} }
+          token: ${{ secrets.GH_TOKEN }}
       - uses: fabasoad/linguist-action@v1.0.0
         id: linguist
         with:
