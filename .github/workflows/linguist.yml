@@ -5,18 +5,26 @@ on:
   
 
 jobs:
-  linguist:
-    name: Run linguist
+#   linguist:
+#     name: Run linguist
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#         with:
+#           repository: RVKarmani/SensorVisualizer
+#           token: ${{ secrets.GH_TOKEN }}
+#       - uses: fabasoad/linguist-action@v1.0.0
+#         id: linguist
+#         with:
+#           path: './'
+#           percentage: true
+#       - name: Print linguist result
+#         run: echo "${{ steps.linguist.outputs.data }}"
+
+  githubAPI:
+    name: GET request GithubV3
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          repository: RVKarmani/SensorVisualizer
-          token: ${{ secrets.GH_TOKEN }}
-      - uses: fabasoad/linguist-action@v1.0.0
-        id: linguist
-        with:
-          path: './'
-          percentage: true
-      - name: Print linguist result
-        run: echo "${{ steps.linguist.outputs.data }}"
+      - name: Print REST payload result
+        run: 'curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/RVKarmani/SensorVisualizer/languages'
+
