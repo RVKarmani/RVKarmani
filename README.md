@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" />
 
-I'm a full-stack developer from India. I'm a software engineer [@PublicisSapient](https://www.publicissapient.com), BTech graduate from [@VITVellore 2020](https://www.vit.ac.in). I enjoy coding, binge watching TV series, gaming, travelling around India and meeting new people.
+I'm a full-stack developer from India. I'm a software engineer [@PublicisSapient](https://www.publicissapient.com), BTech graduate from [@VITVellore 2020](https://www.vit.ac.in). I enjoy coding, binge watching TV series, gaming, travelling and meeting new people.
 ## 🌱 I’m currently learning and working on...
 - Azure Cloud Platform
 - AWS Cloud Platform
