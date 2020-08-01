@@ -19,7 +19,7 @@ I'm a full-stack developer from India. I'm a software engineer [@PublicisSapient
 ## Projects and their stats
 ![Linguist](https://github.com/RVKarmani/RVKarmani/workflows/Linguist/badge.svg)
 
-
+<img src="https://quickchart.io/chart?c={type:'pie',data:{labels:['January','February', 'March','April', 'May'], datasets:[{data:[50,60,70,180,190]}]}}">
 
 
 ## 📫 How to reach me...
