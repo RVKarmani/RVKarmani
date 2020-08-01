@@ -1,9 +1,8 @@
 name: Waka Stats Profile README
 
 on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '51 4 * * *'
+  workflow_dispatch:
+    types: example-event
 
 jobs:
   update-readme:
