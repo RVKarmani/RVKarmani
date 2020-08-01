@@ -9,9 +9,9 @@ jobs:
     name: Run linguist
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
         with:
-          name: RVKarmani/SensorVisualizer
+          repository: RVKarmani/SensorVisualizer
           token: ${ {secrets.GH_TOKEN} }
       - uses: fabasoad/linguist-action@v1.0.0
         id: linguist
