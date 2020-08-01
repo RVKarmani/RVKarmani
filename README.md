@@ -19,5 +19,4 @@ I'm a full-stack developer from India. I'm a software engineer [@PublicisSapient
 ## 📫 How to reach me...
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rohit-vemparala) [![Email Me](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:vemparalarohit1998@gmail.com)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?RVKarmani" frameborder="0"></iframe>
