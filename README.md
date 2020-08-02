@@ -19,10 +19,9 @@ I'm a full-stack developer from India. I'm a software engineer [@PublicisSapient
 ## Projects and their stats
 ![Linguist](https://github.com/RVKarmani/RVKarmani/workflows/Linguist/badge.svg)
 
-<img height="350" width="550" src= "https://quickchart.io/chart?c={type:'pie',data:{labels:['January','February','March','April','May'],datasets:[{data:[50,60,70,180,190]}]}}" />
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rvkarmani&show_icons=true&theme=dark&hide=stars,prs)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvkarmani&layout=compact)](https://github.com/rvkarmani/github-readme-stats)
 ## 📫 How to reach me...
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rohit-vemparala) [![Email Me](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:vemparalarohit1998@gmail.com)
 
