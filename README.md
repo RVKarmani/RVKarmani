@@ -2,18 +2,16 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/source.gif" />
 
-I'm a full-stack developer from India. I'm a software engineer [@PublicisSapient](https://www.publicissapient.com), BTech graduate from [@VITVellore 2020](https://www.vit.ac.in). I enjoy coding, binge watching TV series, gaming, travelling and meeting new people.
+I'm a full-stack developer from India. I'm a software engineer, BTech graduate from [@VITVellore 2020](https://www.vit.ac.in). I enjoy swimming, coding, binge watching TV series, gaming, travelling and meeting new people.
 ## 🌱 I’m currently learning and working on...
-- Azure Cloud Platform
 - AWS Cloud Platform
+- Kubernetes
 - Kafka 
 - ReactJS
 - Microservices
 - Jenkins
 - Docker
-- DockerSwarm
 - Shell Scripting
-- Prometheus, Grafana
 - SpringBoot
 
 ## Projects and their stats
@@ -24,4 +22,3 @@ I'm a full-stack developer from India. I'm a software engineer [@PublicisSapient
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvkarmani&layout=compact)](https://github.com/rvkarmani/github-readme-stats)
 ## 📫 How to reach me...
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/rohit-vemparala) [![Email Me](https://img.shields.io/badge/--gmail?label=Gmail&logo=gmail&style=social)](mailto:vemparalarohit1998@gmail.com)
-
