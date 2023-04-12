@@ -5,6 +5,7 @@
 I'm a full-stack developer from India. I'm a software engineer, BTech graduate from [@VITVellore 2020](https://www.vit.ac.in). I enjoy swimming, coding, binge watching TV series, gaming, travelling and meeting new people.
 ## 🌱 I’m currently learning and working on...
 - AWS Cloud Platform
+- Golang
 - Kubernetes
 - Kafka 
 - ReactJS
@@ -15,8 +16,6 @@ I'm a full-stack developer from India. I'm a software engineer, BTech graduate f
 - SpringBoot
 
 ## Projects and their stats
-![Linguist](https://github.com/RVKarmani/RVKarmani/workflows/Linguist/badge.svg)
-
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rvkarmani&show_icons=true&theme=dark&hide=stars,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvkarmani&layout=compact)](https://github.com/rvkarmani/github-readme-stats)
