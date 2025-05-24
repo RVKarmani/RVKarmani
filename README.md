@@ -17,6 +17,7 @@ I enjoy climbing, swimming, travelling and meeting new people.
 - Infrastructure (Terraform, AWS Cloudformation CDK, AWS SAM)
 
 ## Projects and their stats
+![](https://hit.yhype.me/github/profile?account_id=39242712)
 ![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=rvkarmani&show_icons=true&theme=dark&hide=stars,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rvkarmani&layout=compact)](https://github.com/rvkarmani/github-readme-stats)
